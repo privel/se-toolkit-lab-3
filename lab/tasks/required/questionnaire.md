@@ -19,7 +19,7 @@ TODO questions about what their specific request is
 1. HTTP method: GET
 2. Path: /items
 3. Status code (success): 200
-4. Response type (array or object): json
+4. Response type (array or object): array
 
 ### GET /items/{item_id}
 
